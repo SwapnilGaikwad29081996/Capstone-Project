@@ -10,3 +10,4 @@ Following are the tasks performed to solve the problem statement
 5.Creating a streaming data processing framework that ingests real time data from KAFKA 
 6.Update the transactions data along with status (Genuine/Fraud)
 7.Storing the Data based on the status of the transactions.
+![image](https://user-images.githubusercontent.com/37281849/193201345-6c892d80-c80a-490a-a198-9f6e568785e2.png)
